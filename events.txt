@@ -1,0 +1,4 @@
+03/11/2021;Examen;WEEKLY;itzel...;1
+03/11/2021;Presentación de Proyecto;WEEKLY;idsgs;1
+04/02/2021;Hola;DAILY;itzelmoo;1
+04/02/2021;examen;WEEKLY;dsgs;0
